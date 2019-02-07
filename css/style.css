@@ -1,0 +1,15 @@
+h1 {
+  color: #000f;
+  text-align: center;
+}
+h2 {
+  color: green;
+  front-style: italic;
+  text-align: center;
+}
+p{
+  front-family: sans-serif;
+}
+ul {
+  line-height: 40px;
+}
